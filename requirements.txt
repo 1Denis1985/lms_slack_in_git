@@ -1,0 +1,5 @@
+pytest~=6.2.5
+pytest-selenium
+termcolor~=2.1.1
+allure-python-commons
+selenium~=4.7.2
